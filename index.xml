@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotJAR Development Blog on dotJAR - Development Blog</title>
+    <link>https://engineerstudent.github.io/</link>
+    <description>Recent content in dotJAR Development Blog on dotJAR - Development Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Feb 2025 21:28:55 +0000</lastBuildDate>
+    <atom:link href="https://engineerstudent.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Beginning</title>
+      <link>https://engineerstudent.github.io/the-beginning/</link>
+      <pubDate>Sun, 09 Feb 2025 21:28:55 +0000</pubDate>
+      <guid>https://engineerstudent.github.io/the-beginning/</guid>
+      <description>&lt;p&gt;Initial post for dotJAR development blog.&lt;/p&gt;&#xA;&lt;p&gt;In this blog progress of the project will be continously posted.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>https://engineerstudent.github.io/about-us/</link>
+      <pubDate>Sun, 09 Feb 2025 21:20:34 +0000</pubDate>
+      <guid>https://engineerstudent.github.io/about-us/</guid>
+      <description>&lt;p&gt;dotJAR is compromised of 3 members:&lt;/p&gt;&#xA;&lt;h1 id=&#34;meet-the-team-members&#34;&gt;Meet the Team Members&lt;/h1&gt;&#xA;&lt;p&gt; &#xA; &lt;/p&gt;&#xA;&lt;h2 id=&#34;jael-gonzalez-blog-maintainer&#34;&gt;Jael Gonzalez (Blog Maintainer)&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;angel-aquino&#34;&gt;Angel Aquino&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;ramon-rosario&#34;&gt;Ramon Rosario&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
